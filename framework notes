@@ -1,0 +1,29 @@
+
+Framework:
+-structure or guidelines or rules to build something
+
+Types:
+1.TDD >> Test Driven Development
+2.BDD >> Behaviour Driven Development
+
+Design Patterns:
+1.Singleton
+2.Page Object Model >> POM :every page in application there will be a corresponding class
+
+Loggers
+Testing Reports
+Extent Reports
+Apache POI
+
+Project Folders:
+src/main/java:will contain the actual code
+src/main/resources:config or etc file
+
+src/test/java:will contain only the test cases
+src/test/resources:test data file
+
+Our project:
+Build Tool:maven
+Framework:TDD
+Design Pattern:POM
+CI/CD:Github and Jenkins
